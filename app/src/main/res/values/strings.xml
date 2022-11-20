@@ -5,4 +5,7 @@
     <string name="enter_salary">Enter Salary</string>
     <string name="button_save">SAVE</string>
     <string name="button_view">VIEW</string>
+    <string name="title_employee_list">List of Employees</string>
+    <string name="tv_employee_name">Employee Name</string>
+    <string name="tv_employee_salary">Employee Salary</string>
 </resources>
